@@ -213,10 +213,13 @@ fieldset[disabled] .btn-xl.active {
     color: #fff;
 }
 
-.navbar-default .nav li a:hover,
-.navbar-default .nav li a:focus {
+.navbar-default .nav li a:hover {
     outline: 0;
     color: #{{ site.color.primary }};
+}
+.navbar-default .nav li a:focus {
+    color: #fff;
+    outline: 0;
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -228,7 +231,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
 }
 
 @media(min-width:768px) {
@@ -648,67 +651,15 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(img/map-image.png);
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
     color: #fff;
 }
 
-section#contact .form-group {
+section#contact .section-subheading {
+    font-size: 24px;
     margin-bottom: 25px;
-}
-
-section#contact .form-group input,
-section#contact .form-group textarea {
-    padding: 20px;
-}
-
-section#contact .form-group input.form-control {
-    height: auto;
-}
-
-section#contact .form-group textarea.form-control {
-    height: 236px;
-}
-
-section#contact .form-control:focus {
-    border-color: #{{ site.color.primary }};
-    box-shadow: none;
-}
-
-section#contact::-webkit-input-placeholder {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    color: #bbb;
-}
-
-section#contact:-moz-placeholder {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    color: #bbb;
-}
-
-section#contact::-moz-placeholder {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    color: #bbb;
-}
-
-section#contact:-ms-input-placeholder {
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    color: #bbb;
-}
-
-section#contact .text-danger {
-    color: #e74c3c;
 }
 
 footer {
@@ -731,12 +682,9 @@ footer ul.quicklinks {
     line-height: 40px;
 }
 
-footer .credits {
-    margin-top: 50px;
-}
-
 ul.social-buttons {
-    margin-bottom: 0;
+    margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 ul.social-buttons li a {
