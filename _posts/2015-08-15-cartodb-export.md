@@ -4,11 +4,11 @@ date: 2015-08-15
 layout: default
 title: cartodb-export
 subtitle: Map Module
-img: urban-reviewer.png
-thumbnail: urban-reviewer-thumb.png
-project-date: 2013, ongoing
+img: cartodb-export.png
+thumbnail: cartodb-export-thumb.png
+project-date: 2015, ongoing
 url: https://github.com/ebrelsford/cartodb-export
 url-display: github.com/ebrelsford/cartodb-export
 ---
 
-A simple loading control for Leaflet.
+A node module that exports CartoDB visualizations to static HTML and JavaScript using Leaflet. This is an experiment in turning CartoCSS into other map styling formats, in this case from CartoCSS to Leaflet's styling.

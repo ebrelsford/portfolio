@@ -4,9 +4,9 @@ date: 2013-09-01
 layout: default
 title: Living Lots
 subtitle: Vacant Lot Viewer Web Framework
-img: urban-reviewer.png
-thumbnail: urban-reviewer-thumb.png
-project-date: 2014, ongoing
+img: living-lots.png
+thumbnail: living-lots-thumb.png
+project-date: 2013, ongoing
 url: https://github.com/596acres/django-livinglots
 url-display: github.com/596acres/django-livinglots
 ---

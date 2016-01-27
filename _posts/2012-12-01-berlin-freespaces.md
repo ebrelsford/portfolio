@@ -11,6 +11,4 @@ url: http://berlinfreespaces.org
 url-display: berlinfreespaces.org
 ---
 
-Berlin Freespaces maps squats and free culture spaces in Berlin in a nicely searchable manner.
-
-Artist Jaime Iglehart did the research behind the map, I normalized the data in CartoDB and created the site. You can see Jaime talk about it at GeoNYC in [this video](https://vimeo.com/111900628#t=34m05s).
+Berlin Freespaces maps squats and free culture spaces in Berlin in a nicely searchable manner. Artist Jaime Iglehart did the research behind the map, I normalized the data in CartoDB and created the site. You can see Jaime talk about it at GeoNYC in [this video](https://vimeo.com/111900628#t=34m05s).
