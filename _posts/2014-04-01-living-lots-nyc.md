@@ -11,4 +11,4 @@ url: http://livinglotsnyc.org
 url-display: livinglotsnyc.org
 ---
 
-A vacant lot viewer using the [Living Lots](https://github.com/596acres/django-livinglots) framework for New York City. Made with 596 Acres, this is a modernized version of the original map which was at 596acres.org.
+A vacant lot viewer using the [Living Lots](https://github.com/596acres/django-livinglots) framework for New York City. Made with 596 Acres, this is a modernized version of the original map which was at 596acres.org. I took care of developing the site and migrating data from the old one.

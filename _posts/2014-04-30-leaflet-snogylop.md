@@ -11,4 +11,4 @@ url: https://github.com/ebrelsford/Leaflet.snogylop
 url-display: github.com/ebrelsford/Leaflet.snogylop
 ---
 
-A simple Leaflet plugin that lets you invert polygons on a map. Sometimes you would rather fade out everything outside of an area rather than highlight everything inside that area, and this plugin does that for you.
+A simple Leaflet plugin that lets you invert polygons on a map. Sometimes you would rather de-emphasize everything outside of an area rather than highlight everything inside that area, and this plugin does that for you.
