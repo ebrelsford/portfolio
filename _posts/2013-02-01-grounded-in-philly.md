@@ -13,4 +13,6 @@ url: http://groundedinphilly.org
 url-display: groundedinphilly.org
 ---
 
-A vacant lot viewer built on [Living Lots](https://github.com/596acres/django-livinglots) for Philadelphia in conjunction with the Public Interest Law Center of Philadelphia and 596 Acres. I contributed to the concept of the site, worked on the data that drives the site, and developed it.
+A vacant lot viewer built on [Living Lots](https://github.com/596acres/django-livinglots) for Philadelphia in conjunction with the Public Interest Law Center of Philadelphia and 596 Acres.
+
+I contributed to the concept of the site, worked on the data that drives the site, and developed it.
