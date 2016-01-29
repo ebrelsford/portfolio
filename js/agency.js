@@ -14,6 +14,10 @@ $(function() {
         event.preventDefault();
     });
 
+    $('a').filter(function() {
+        return this.hostname && this.hostname !== location.hostname;
+    }).attr('target', '_blank');
+
     // Open modal if it is in the URL's hash
     var $modal = $(window.location.hash);
     if ($modal.length > 0) {
