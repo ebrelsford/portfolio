@@ -342,6 +342,13 @@ section h3.section-subheading {
     }
 }
 
+.next-section {
+    display: block;
+    font-size: 48px;
+    margin-top: 50px;
+    text-align: center;
+}
+
 .service-heading {
     margin: 15px 0;
     text-transform: none;
