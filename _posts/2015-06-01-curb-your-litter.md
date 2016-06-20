@@ -9,7 +9,7 @@ thumbnail: curb-your-litter-thumb.png
 project-date: 2015, ongoing
 client: Curb Your Litter
 client-url: http://curbyourlitter.org
-url: http://map.curbyourlitter.org
+external-url: http://map.curbyourlitter.org
 url-display: map.curbyourlitter.org
 ---
 

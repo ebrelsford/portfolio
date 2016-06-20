@@ -7,7 +7,7 @@ img: living-lots-nyc.png
 thumbnail: living-lots-nyc-thumb.png
 project-date: 2014, ongoing
 category: client-work
-url: http://livinglotsnyc.org
+external-url: http://livinglotsnyc.org
 url-display: livinglotsnyc.org
 ---
 

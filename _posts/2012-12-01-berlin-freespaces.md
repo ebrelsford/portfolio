@@ -7,7 +7,7 @@ img: berlin-freespaces.png
 thumbnail: berlin-freespaces-thumb.png
 project-date: December 2012
 category: client-work
-url: http://berlinfreespaces.org
+external-url: http://berlinfreespaces.org
 url-display: berlinfreespaces.org
 ---
 

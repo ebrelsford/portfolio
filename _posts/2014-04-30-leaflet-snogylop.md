@@ -7,7 +7,7 @@ subtitle: Leaflet Plugin
 img: leaflet-snogylop.png
 thumbnail: leaflet-snogylop-thumb.png
 project-date: 2014, ongoing
-url: https://github.com/ebrelsford/Leaflet.snogylop
+external-url: https://github.com/ebrelsford/Leaflet.snogylop
 url-display: github.com/ebrelsford/Leaflet.snogylop
 ---
 

@@ -7,7 +7,7 @@ subtitle: Data and Website Development
 img: urban-reviewer.png
 thumbnail: urban-reviewer-thumb.png
 project-date: 2014
-url: http://urbanreviewer.org
+external-url: http://urbanreviewer.org
 url-display: urbanreviewer.org
 ---
 

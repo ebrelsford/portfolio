@@ -7,7 +7,7 @@ img: gpia.png
 thumbnail: gpia-thumb.png
 project-date: Spring 2014, 2015, and 2016
 category: talks
-url: http://ebrelsford.github.io/talks/2015/AdvancedGIS
+external-url: http://ebrelsford.github.io/talks/2015/AdvancedGIS
 url-display: ebrelsford.github.io/talks/2015/AdvancedGIS
 ---
 

@@ -14,7 +14,7 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <a href="{{ post.url }}">
+                            <a href="{{ post.external-url }}">
                                 <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.title }}">
                             </a>
                             <div class="modal-text">
@@ -26,8 +26,8 @@
                                     {% if post.project-date %}
                                         <li>Date: <strong>{{ post.project-date }}</strong></li>
                                     {% endif %}
-                                    {% if post.url %}
-                                        <li>View online at <strong><a href="{{ post.url }}">{{ post.url-display }}</a></strong></li>
+                                    {% if post.external-url %}
+                                        <li>View online at <strong><a href="{{ post.external-url }}">{{ post.url-display }}</a></strong></li>
                                     {% endif %}
                                 </ul>
                             </div>

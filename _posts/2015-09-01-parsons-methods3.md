@@ -7,7 +7,7 @@ img: due-methods3.png
 thumbnail: urban-parsons-thumb.png
 project-date: Fall 2013, 2014, and 2015
 category: talks
-url: http://due-parsons.github.io/methods3-fall2015/
+external-url: http://due-parsons.github.io/methods3-fall2015/
 url-display: due-parsons.github.io/methods3-fall2015
 ---
 

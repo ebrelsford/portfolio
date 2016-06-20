@@ -9,7 +9,7 @@ project-date: 2013 - 2015
 client: Public Interest Law Center of Philadelphia
 client-url: http://pilcop.org
 category: client-work
-url: http://groundedinphilly.org
+external-url: http://groundedinphilly.org
 url-display: groundedinphilly.org
 ---
 

@@ -7,7 +7,7 @@ img: pratt-savi.png
 thumbnail: pratt-savi-thumb.png
 project-date: Spring 2015
 category: talks
-url: http://ebrelsford.github.io/talks/2015/SAVI/702/
+external-url: http://ebrelsford.github.io/talks/2015/SAVI/702/
 url-display: ebrelsford.github.io/talks/2015/SAVI/702
 ---
 

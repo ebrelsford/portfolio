@@ -7,7 +7,7 @@ subtitle: Leaflet Plugin
 img: leaflet-loading.png
 thumbnail: leaflet-loading.gif
 project-date: 2013, ongoing
-url: https://github.com/ebrelsford/Leaflet.loading
+external-url: https://github.com/ebrelsford/Leaflet.loading
 url-display: github.com/ebrelsford/Leaflet.loading
 ---
 

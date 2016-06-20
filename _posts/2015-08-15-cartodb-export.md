@@ -7,7 +7,7 @@ subtitle: Map Module
 img: cartodb-export.png
 thumbnail: cartodb-export-thumb.png
 project-date: 2015, ongoing
-url: https://github.com/ebrelsford/cartodb-export
+external-url: https://github.com/ebrelsford/cartodb-export
 url-display: github.com/ebrelsford/cartodb-export
 ---
 

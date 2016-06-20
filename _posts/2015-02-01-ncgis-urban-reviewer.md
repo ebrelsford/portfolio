@@ -7,7 +7,7 @@ img: ncgis-urban-reviewer.png
 thumbnail: ncgis-urban-reviewer-thumb.png
 project-date: February 2015
 category: talks
-url: http://ebrelsford.github.io/talks/2015/ncgis/urbanreviewer/
+external-url: http://ebrelsford.github.io/talks/2015/ncgis/urbanreviewer/
 url-display: ebrelsford.github.io/talks/2015/ncgis/urbanreviewer
 ---
 

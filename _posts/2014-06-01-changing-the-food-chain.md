@@ -7,7 +7,7 @@ img: changing-the-food-chain.png
 thumbnail: changing-the-food-chain-thumb.png
 project-date: 2014
 category: client-work
-url: http://changingthefoodchain.org
+external-url: http://changingthefoodchain.org
 url-display: changingthefoodchain.org
 ---
 

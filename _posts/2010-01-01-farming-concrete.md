@@ -7,7 +7,7 @@ img: farming-concrete.png
 thumbnail: farming-concrete-thumb.png
 project-date: 2010, ongoing
 category: client-work
-url: http://farmingconcrete.org
+external-url: http://farmingconcrete.org
 url-display: farmingconcrete.org
 ---
 

@@ -7,7 +7,7 @@ subtitle: Vacant Lot Viewer Web Framework
 img: living-lots.png
 thumbnail: living-lots-thumb.png
 project-date: 2013, ongoing
-url: https://github.com/596acres/django-livinglots
+external-url: https://github.com/596acres/django-livinglots
 url-display: github.com/596acres/django-livinglots
 ---
 
