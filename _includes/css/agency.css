@@ -61,12 +61,6 @@ h6 {
     margin: 0 auto;
 }
 
-.img-responsive {
-    height: 260px;
-    object-fit: cover;
-    width: 100%;
-}
-
 .bg-light-gray {
     background-color: #f7f7f7;
 }
@@ -374,6 +368,12 @@ section h3.section-subheading {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+}
+
+.portfolio-item .portfolio-link img {
+    height: 260px;
+    object-fit: cover;
+    width: 100%;
 }
 
 .portfolio-item .portfolio-link .portfolio-hover {
