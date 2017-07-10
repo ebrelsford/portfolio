@@ -61,6 +61,12 @@ h6 {
     margin: 0 auto;
 }
 
+.img-responsive {
+    height: 260px;
+    object-fit: cover;
+    width: 100%;
+}
+
 .bg-light-gray {
     background-color: #f7f7f7;
 }
